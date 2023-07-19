@@ -1,6 +1,6 @@
-# Meu Gerador Lorem Ipsum :memo:
+# Gerador Lorem Ipsum :memo:
 
-[![npm version](https://img.shields.io/npm/v/meu-gerador-lorem-ipsum.svg)](https://www.npmjs.com/package/meu-gerador-lorem-ipsum)
+[![npm version](https://img.shields.io/npm/v/meu-gerador-lorem-ipsum.svg)](https://www.npmjs.com/package/loremips-gen)
 
 Um pacote simples para gerar texto Lorem Ipsum aleatório. :pencil:
 
@@ -9,11 +9,11 @@ Um pacote simples para gerar texto Lorem Ipsum aleatório. :pencil:
 Certifique-se de ter o Node.js e o npm instalados. Execute o seguinte comando para instalar a package:
 
 ```shell
-npm install meu-gerador-lorem-ipsum
+npm install loremips-gen
 ```
 ## Uso :rocket:
 ```js
-const generateLoremIpsum = require('meu-gerador-lorem-ipsum');
+const generateLoremIpsum = require('loremips-gen');
 
 const loremIpsumText = generateLoremIpsum(200);
 console.log(loremIpsumText);
@@ -39,4 +39,4 @@ Contribuições são bem-vindas! Para propor uma alteração, siga estas etapas:
 
 ## Licença :scroll:
 
-Este projeto é licenciado nos termos da licença [MIT](https://github.com/FabricioFacco/LoremIps-Gen/edit/main/README.md)
+Este projeto é licenciado nos termos da licença [MIT](https://github.com/FabricioFacco/LoremIps-Gen/LICENSE)

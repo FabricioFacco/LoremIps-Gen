@@ -1,6 +1,6 @@
 # Gerador Lorem Ipsum :memo:
 
-[![npm version](https://img.shields.io/npm/v/meu-gerador-lorem-ipsum.svg)](https://www.npmjs.com/package/loremips-gen)
+[![npm version](https://img.shields.io/npm/v/loremips-gen.svg)](https://www.npmjs.com/package/loremips-gen)
 
 Um pacote simples para gerar texto Lorem Ipsum aleatório. :pencil:
 

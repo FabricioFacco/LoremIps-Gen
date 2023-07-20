@@ -39,4 +39,4 @@ Contribuições são bem-vindas! Para propor uma alteração, siga estas etapas:
 
 ## Licença :scroll:
 
-Este projeto é licenciado nos termos da licença [MIT](https://github.com/FabricioFacco/LoremIps-Gen/LICENSE)
+Este projeto é licenciado nos termos da licença [MIT](https://github.com/FabricioFacco/LoremIps-Gen/blob/main/LICENSE)
